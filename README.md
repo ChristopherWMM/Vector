@@ -1,6 +1,6 @@
 # **Vector**
 
-![vector][vector-image]
+![vector-gameplay][vector-gameplay]
 
 ### - About Vector
 
@@ -9,6 +9,8 @@ Vector is a timed runner built in Unity for the Reuben H. Fleet Science Center a
 ### - Accessability
 
 Keeping with the theme of visual based alternative controller schemes, I wanted to make my game as accessible as possible. To do this, I chose specific colors and textures that would allow for *most* types of color blindness accessibility. Here is what the game would look like:
+
+![vector][vector-image]
 
 #### - Protanopia *(Red/green color blindness; Anomalous red cones)*
 ![vector-image-protanopia][vector-image-protanopia]
@@ -65,7 +67,7 @@ Below is a visual of the device itself, in order to use it you simply need to pl
 [vector-image-deutanopia]: https://i.imgur.com/pkSM5QZ.png "Vector Gameplay with Deutanopia"
 [vector-image-tritanopia]: https://i.imgur.com/1rujBLv.png "Vector Gameplay with Tritanopia"
 
-[vector-gameplay]: https://i.imgur.com/i9tsr2J.gifv "Vector"
+[vector-gameplay]: https://i.imgur.com/SrToVHK.gif "Vector"
 
 [fleet-science-center-logo]: http://www.jasonlatimer.com/images/fleet_logo115x119.png?crc=4171433914 "Reuben H. Fleet Science Center"
 [genius-in-the-house-logo]: https://www.rhfleet.org/sites/default/files/genius_showpage-header.jpg "Genius in the House"
