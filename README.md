@@ -4,11 +4,11 @@
 
 ### - About Vector
 
-Vector is a timed runner built in Unity for the Reuben H. Fleet Science Center as part of their Game Masters exhibit and “Genius in the House” program to demonstrate the Tobii Eye Tracker. Players are tasked with going through alternating colors to increase their speed and finish as fast as they can! I was tasked with showing my game to the guestsr, have discussions about game development, and answer their questions about my personal experiences.
+Vector is a timed runner built in Unity for the Reuben H. Fleet Science Center as part of their Game Masters exhibit and “Genius in the House” program to demonstrate the Tobii Eye Tracker. Players are tasked with going through alternating colors to increase their speed and finish as fast as they can! I was tasked with showing my game to the guests, have discussions about game development, and answer their questions about my personal experiences.
 
 ### - Accessability
 
-Keeping with the theme of visual based alternative controller schemes, I wanted to make my game as accessible as possible. To do this, I chose specific colors and textures that would allow for *most* types of color blindness accessibility. Here is what the game would look like:
+My mentor for the Reuben H. Fleet Science Center presentation, Jeffrey Yee, is color blind. During our testing period, it became apparent that I really needed to take this into account seeing as though my game requires players to rapidly distinguish colors apart from one another. Keeping with the theme of visual-based alternative controller schemes, I wanted to make my game as accessible as possible. To do this, I chose specific colors and textures that would allow for *most* types of color blindness accessibility. Here is what the game would look like:
 
 ![vector][vector-image]
 
@@ -42,7 +42,7 @@ The Fleet Science Center connects people of all ages to the possibilities and po
 ## **What is Game Masters?**
 ![game-masters][game-masters-logo]
 
-Game Masters is an international touring exhibition designed to highlight the key designers who have had a large influence on video games and video game culture. The exhibition includes over 125 playable games from over 30 different designers as well as concept and development artwork. The Reuben H. Fleet Science Center hosted the exhibition from July 1st 2017 to January 18 2018.
+Game Masters is an international touring exhibition designed to highlight the key designers who have had a large influence on video games and video game culture. The exhibition includes over 125 playable games from over 30 different designers as well as concept and development artwork. The Reuben H. Fleet Science Center hosted the exhibition from July 1st, 2017 to January 18th, 2018.
 
 ----
 
