@@ -74,6 +74,6 @@ Below is a visual of the device itself, in order to use it you simply need to pl
 [game-masters-logo]: http://blog.thebehemoth.com/wp-content/uploads/2017/06/Game-Masters_w.jpg "Game Masters"
 
 [tobii-logo]: http://minjieli.com/wp-content/uploads/2017/12/Tobii_eye_tracking_Logo_Black_web-300x167.jpg "Tobii Eye Tracker"
-[tobii-device]: https://2arguh3ihec53g3h99121n8o-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/Tobii_Eyex_Tracker.png "Tobii EyeX"
+[tobii-device]: https://help.tobii.com/hc/en-us/article_attachments/208219049/Tobii_Eyex_Tracker.png "Tobii EyeX"
 [tobii-tracking]: http://i.imgur.com/Pc6TPHH.gif "Tobii EyeX in action"
 [tobii-magic]: https://46at5v2qu559o0iolpuib8xq4-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Header.gif "Magic"
