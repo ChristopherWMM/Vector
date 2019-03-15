@@ -69,7 +69,7 @@ Below is a visual of the device itself, in order to use it you simply need to pl
 
 [vector-gameplay]: https://i.imgur.com/SrToVHK.gif "Vector"
 
-[fleet-science-center-logo]: http://www.jasonlatimer.com/images/fleet_logo115x119.png?crc=4171433914 "Reuben H. Fleet Science Center"
+[fleet-science-center-logo]: https://www.rhfleet.org/sites/default/files/styles/press_thumb/public/Fleet_Logo_Blue.png?itok=K3M2u00Z "Reuben H. Fleet Science Center"
 [genius-in-the-house-logo]: https://www.rhfleet.org/sites/default/files/genius_showpage-header.jpg "Genius in the House"
 [game-masters-logo]: http://blog.thebehemoth.com/wp-content/uploads/2017/06/Game-Masters_w.jpg "Game Masters"
 
