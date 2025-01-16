@@ -35,7 +35,7 @@ The Fleet Science Center connects people of all ages to the possibilities and po
 ## **What is Genius in the House?**
 ![genius-in-the-house][genius-in-the-house-logo]
 
-"Genius in the House" is a casual event in the exhibit galleries, not a lecture, that brings brainiacs from fields such as biology, art, engineering, mathematics and more to the Fleet to enhance the exhibit experience. Visitors are able to chat with the genius, ask questions, and explore themes from our exhibitions in ways that are both "insightful and delightful".
+"Genius in the House" is a casual event in the exhibit galleries, not a lecture, that brings brainiacs from fields such as biology, art, engineering, mathematics and more to the Fleet to enhance the exhibit experience. Visitors are able to chat with the genius, ask questions, and explore themes from our exhibitions in ways that are both "insightful and delightful". More information can be found on their website [https://www.rhfleet.org/events/genius-house](https://www.fleetscience.org/events/genius-house).
 
 ----
 
@@ -69,9 +69,9 @@ Below is a visual of the device itself, in order to use it you simply need to pl
 
 [vector-gameplay]: https://i.imgur.com/SrToVHK.gif "Vector"
 
-[fleet-science-center-logo]: https://www.rhfleet.org/sites/default/files/styles/press_thumb/public/Fleet_Logo_Blue.png?itok=K3M2u00Z "Reuben H. Fleet Science Center"
-[genius-in-the-house-logo]: https://www.rhfleet.org/sites/default/files/genius_showpage-header.jpg "Genius in the House"
-[game-masters-logo]: http://blog.thebehemoth.com/wp-content/uploads/2017/06/Game-Masters_w.jpg "Game Masters"
+[fleet-science-center-logo]: https://www.fleetscience.org/sites/default/files/2022-01/Fleet_Logo_Blue_2.png "Reuben H. Fleet Science Center"
+[genius-in-the-house-logo]: https://www.fleetscience.org/sites/default/files/genius_showpage-header.jpg "Genius in the House"
+[game-masters-logo]: https://blog.thebehemoth.com/wp-content/uploads/2017/06/Game-Masters_w.jpg "Game Masters"
 
 [tobii-logo]: http://minjieli.com/wp-content/uploads/2017/12/Tobii_eye_tracking_Logo_Black_web-300x167.jpg "Tobii Eye Tracker"
 [tobii-device]: https://help.tobii.com/hc/en-us/article_attachments/208219049/Tobii_Eyex_Tracker.png "Tobii EyeX"
